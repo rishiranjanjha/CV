@@ -5,7 +5,7 @@ Hey everyone My name is Rishi and This is My Personal website (Cv) which i made 
 
 ## Demo
 
-website Link: https://rishirj007.github.io/cv/  
+website Link: https://rishirj007.github.io/personal-website-html/
 
   
 ## Documentation
