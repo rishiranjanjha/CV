@@ -1,5 +1,5 @@
 
-# Project Title
+# Personal Website 
 
 Hey everyone My name is Rishi and This is My Personal website (Cv) which i made during my Web development course Using Only HTML commands.
 
